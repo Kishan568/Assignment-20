@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\Assignment 20\bin\Debug\Assignment 20.exe.config
+E:\Users\kishan\source\repos\Assignment 20\bin\Debug\Assignment 20.exe
+E:\Users\kishan\source\repos\Assignment 20\bin\Debug\Assignment 20.pdb
+E:\Users\kishan\source\repos\Assignment 20\obj\Debug\Assignment 20.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\Assignment 20\obj\Debug\Assignment 20.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\Assignment 20\obj\Debug\Assignment 20.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\Assignment 20\obj\Debug\Assignment 20.exe
+E:\Users\kishan\source\repos\Assignment 20\obj\Debug\Assignment 20.pdb
